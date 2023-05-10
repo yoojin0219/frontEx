@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "html5-css3",
+			"path": "../../../../Users/pjn/git/html5-css3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontEx",
+		"liveServer.settings.port": 5501
+	}
+}
